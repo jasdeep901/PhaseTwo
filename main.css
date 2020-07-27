@@ -1,0 +1,54 @@
+h1 {
+    color: darkmagenta;
+    font-size: 2em;
+    text-align: left;
+
+}
+
+#div {
+    background-color: lightpink;
+    text-align: center;
+    border: 5px outset blueviolet;
+    width: 50%;
+}
+
+li {
+    color: #FFFF00;
+    text-align: left;
+    font-style: oblique;
+    font-size: 1.5em;
+}
+
+.btn {
+
+    width: 15%;
+    padding: 1em;
+    font-size: 1em;
+    border: black;
+    background-color: #4CAF50;
+}
+
+.input {
+    width: 15%;
+    padding: 1em;
+}
+
+ul {
+    list-style-type: square;
+
+}
+
+.MyDel {
+
+
+    float: right;
+
+    background: orange;
+
+}
+
+.googlediv {
+	width: 50%;
+	height: 200px;
+	margin: auto;
+}
